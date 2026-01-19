@@ -1,6 +1,6 @@
 # 🌐 WEB-DEV-LEARNING
 
-A complete learning repository for **HTML, CSS, and JavaScript**, covering fundamentals to advanced concepts with notes and practice projects.
+A complete learning repository for **HTML, CSS, and JavaScript**, covering fundamentals to advanced concepts with notes and practice projects..
 
 ---
 
